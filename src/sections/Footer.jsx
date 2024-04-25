@@ -11,7 +11,7 @@ function Footer() {
                     <a href="/">
                         <img src={footerLogo} alt="Logo" className='' width={152} height={48} />
                     </a>
-                    <p className='mt-6 text-base leading-7 font-montserrat text-white-400 sm:max-w-sm max-sm:whitespace-nowrap'>Get Shoes ready for the new term at your nearest Nike stores. Find Your perfect Size. In Store. Get Rewards</p>
+                    <p className='mt-6 text-base leading-7 font-montserrat text-white-400 sm:max-w-sm '>Get Shoes ready for the new term at your nearest Nike stores. Find Your perfect Size. In Store. Get Rewards</p>
                     <div className='flex items-center gap-5 mt-8 '>
                         {socialMedia.map((icon) => (
                             <div className='flex justify-center items-center w-12 h-12 bg-white rounded-full'>
